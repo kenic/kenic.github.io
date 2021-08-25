@@ -1,4 +1,4 @@
 # INDEX
 
 indexはscrapboxに書くのが便利そう。
-こっちを参照してみてください[OASIS scrapbox](https://scrapbox.io/OASIS/)。
+こっち【[OASIS scrapbox](https://scrapbox.io/OASIS/)】を参照してみてください.
