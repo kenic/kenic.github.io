@@ -1,3 +1,4 @@
-# TEST
+# INDEX
 
-[page 1](page1.html)
+indexはscrapboxに書くのが便利そう。
+こっちを参照してみてください[OASIS scrapbox](https://scrapbox.io/OASIS/)。
