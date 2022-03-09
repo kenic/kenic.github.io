@@ -1,6 +1,10 @@
 # がんちゃんのブログ
 
-[mkdocs]()https://www.mkdocs.org) + github pages でリニューアルしてみました!!
+[mkdocs](https://www.mkdocs.org) + github pages でリニューアルしてみました!!
+
+[旧サイト](https://iwatakenichi.blogspot.com)
+
+気が向いたらコンテンツを移すかも (移さないかも)
 
 ## Commands
 
