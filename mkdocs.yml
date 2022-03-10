@@ -1,4 +1,8 @@
 site_name: がんちゃんのブログ
+site_url: https://kenic.github.io
+site_description: てきとうにかいちゃうぞ
+plugins:
+  - rss
 theme:
     name: material
- 
+    favicon: favicon.ico 
