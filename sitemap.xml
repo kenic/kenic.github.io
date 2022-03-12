@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kenic.github.io/2022/0312LED/</loc>
+         <lastmod>2022-03-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kenic.github.io/2022/test/</loc>
          <lastmod>2022-03-12</lastmod>
          <changefreq>daily</changefreq>
