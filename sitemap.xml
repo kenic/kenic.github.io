@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kenic.github.io/2022/0314MacBookPro/</loc>
+         <lastmod>2022-03-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kenic.github.io/2022/test/</loc>
          <lastmod>2022-03-14</lastmod>
          <changefreq>daily</changefreq>
