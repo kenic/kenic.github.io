@@ -5,4 +5,4 @@ plugins:
   - rss
 theme:
     name: material
-    favicon: favicon.png 
+    favicon: favicon.ico
