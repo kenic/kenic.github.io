@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kenic.github.io/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0309start/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0310facebook/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0311ukraine-russia/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0312LED/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0313pistachio-milk/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0314MacBookPro/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0315SIGG/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kenic.github.io/2022/0316nespresso/</loc>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kenic.github.io/2022/test/</loc>
-         <lastmod>2022-03-15</lastmod>
+         <lastmod>2022-03-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
