@@ -46,6 +46,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kenic.github.io/2022/0318-2ohana/</loc>
+         <lastmod>2022-03-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kenic.github.io/2022/0318onlisp/</loc>
          <lastmod>2022-03-18</lastmod>
          <changefreq>daily</changefreq>
