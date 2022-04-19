@@ -166,6 +166,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://kenic.github.io/2022/0420nenrei/</loc>
+         <lastmod>2022-04-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://kenic.github.io/2022/test/</loc>
          <lastmod>2022-04-19</lastmod>
          <changefreq>daily</changefreq>
