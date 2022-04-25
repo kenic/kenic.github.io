@@ -10,7 +10,7 @@
 
 しらべたらアルパインのこの辺が新しくていいみたいだ。7インチで9万円ぐらい。
 
-！[Alpine Display Audio](https://www.alpine.co.jp/products/displayaudio)
+[Alpine Display Audio](https://www.alpine.co.jp/products/displayaudio)
 
 9インチと11インチは2DINサイズからはみ出て「フローティング」になるようだ。
 そこまで大きいディスプレイはいらないかな...ほとんど見ないしな ^^;;
