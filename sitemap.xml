@@ -126,11 +126,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kenic.github.io/2022/0409door/</loc>
-         <lastmod>2022-05-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://kenic.github.io/2022/0410tire/</loc>
          <lastmod>2022-05-09</lastmod>
          <changefreq>daily</changefreq>
@@ -242,6 +237,11 @@
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0508biyouin/</loc>
+         <lastmod>2022-05-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kenic.github.io/2022/0509door/</loc>
          <lastmod>2022-05-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
