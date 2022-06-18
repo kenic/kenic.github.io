@@ -1,6 +1,0 @@
-<ul>
- 	<li><a href="https://forms.gle/VUfTwJVEMvcEfRjP7">参加者変更届</a>(Google Form)</li>
- 	<li><a class="word" href="https://oasis.okayama-u.ac.jp/wp-content/uploads/2021/03/kyodokentouteian.docx">共同検討提案書</a></li>
- 	<li><a class="word" href="https://oasis.okayama-u.ac.jp/wp-content/uploads/2021/03/working-group-end.docx">ワーキンググループ終了届</a></li>
- 	<li><a href="https://forms.gle/9HH2NCN5iBqHA8zK6">退会届</a>(Google Form)</li>
-</ul>
