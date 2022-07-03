@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kenic.github.io/0703iPhone-lost/</loc>
-         <lastmod>2022-07-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://kenic.github.io/2022/0309start/</loc>
          <lastmod>2022-07-03</lastmod>
          <changefreq>daily</changefreq>
@@ -397,6 +392,11 @@
     </url>
     <url>
          <loc>https://kenic.github.io/2022/0702MacBookPro/</loc>
+         <lastmod>2022-07-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kenic.github.io/2022/0703iPhone-lost/</loc>
          <lastmod>2022-07-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
