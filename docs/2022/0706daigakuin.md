@@ -5,4 +5,4 @@
 学校の先生にもこういうノリで大学院に行ってもらいたい。
 子どもに教える職業のわりに、教わるのには消極的なイメージあるよね。
 
-![daigakuin](daigakuin.png)
+![daigakuin](daigakuin.jpg)
