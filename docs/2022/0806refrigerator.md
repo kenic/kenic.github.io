@@ -8,10 +8,10 @@
 あまりでかいのは必要ないので、85L　2ドアでいいかな。
 鳥大は岡大と違ってAmazonでもヨドバシでも買えるのがいいところだ。岡大は見習ってほしい。
 
+![refrige](refrigerator.png)
+
 このスキマにはまる予定です。
 
-![refrige][refrigerator.png]
-
-![sukima][sukima.jpg]
+![sukima](sukima.jpg)
 
 発注かけました ^^;
