@@ -3,8 +3,8 @@
 2022.8.7<br />
 いなばのタイカレー缶を買ってきたので、カノムチーンにしてみました。そうめんをゆでて、タイカレーかけたらだいたいカノムチーンです。厳密にはそうめんじゃなくて、米粉を水に溶いたものを、ところてん式に押し出す器具でお湯に出して作るらしいんですが、タイ人もそうめんで代用するのでOK。
 
-!(kanom chin)[kanomchin.jpg]
+![kanom chin](kanomchin.jpg)
 
 タイで食べたカノムチーンはこんな感じ。2018年12月、ホワヒンにて。
 
-!(kanom chin huwahin)[kanomchinhuahin.jpg]
+![kanom chin huwahin](kanomchinhuahin.jpg)
