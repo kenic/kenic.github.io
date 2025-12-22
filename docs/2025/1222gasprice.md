@@ -3,4 +3,4 @@
 ちょっと安くなったんですかね...?
 ここは鳥取のガソリンスタンドなんですが、突出して安いんですよね。
 
-[gasprice](gasprice.jpeg)
+![gasprice](gasprice.jpeg)
