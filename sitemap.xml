@@ -691,11 +691,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://kenic.github.io/2025/0105tire/</loc>
-         <lastmod>2026-01-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://kenic.github.io/2025/0331nenpi20/</loc>
          <lastmod>2026-01-05</lastmod>
          <changefreq>daily</changefreq>
@@ -797,6 +792,11 @@
     </url>
     <url>
          <loc>https://kenic.github.io/2026/0104nanakusa/</loc>
+         <lastmod>2026-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kenic.github.io/2026/0105tire/</loc>
          <lastmod>2026-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
