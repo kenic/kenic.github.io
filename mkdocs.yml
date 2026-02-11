@@ -3,6 +3,18 @@ site_url: https://kenic.github.io
 site_description: てきとうにかいちゃうぞ
 plugins:
   - rss
+  - search:
+      lang:
+        - en
+        - ja
+  - awesome-pages
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
+      timezone: Asia/Tokyo
 theme:
     name: material
     favicon: favicon.ico
+    logo: kenic.png
+    features:
+      - content.action.edit
