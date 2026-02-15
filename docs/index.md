@@ -11,6 +11,8 @@
 ってのは一覧からはわからないので、
 適当に当たりをつけて読むか、検索して読むか、そんな感じでお願いします。
 
+[最新の記事]({{ latest_article_url('2026') }})
+
 [寄付のお願い](https://kenic.github.io/kifu/)
 
 [2026年の記事](https://kenic.github.io/2026/0103hanabiramochi/) /
