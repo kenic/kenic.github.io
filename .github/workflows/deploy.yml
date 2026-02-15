@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         # プラグインとGitPythonをインストール
-        run: pip install mkdocs-material mkdocs-macros-plugin GitPython mkdocs-rss-plugin
+        run: pip install mkdocs-material mkdocs-macros-plugin GitPython mkdocs-rss-plugin mkdocs-awesome-pages-plugin
 
       - name: Deploy
         run: mkdocs gh-deploy --force
