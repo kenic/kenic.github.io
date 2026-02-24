@@ -2,7 +2,8 @@
 
 [mkdocs](https://www.mkdocs.org) + github pages でリニューアルしてみました!!
 
-[旧サイト](https://iwatakenichi.blogspot.com)
+[旧サイト(blogspot)](https://iwatakenichi.blogspot.com) / 
+[旧サイト2(gcp)](https://iwatakenichi.com)
 
 気が向いたら旧サイトからコンテンツを移すかも (移さないかも)<br />
 日付は記事の先頭に手動で入れるようにしています。たまに間違えているかもしれません。
