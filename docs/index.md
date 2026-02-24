@@ -2,8 +2,8 @@
 
 [mkdocs](https://www.mkdocs.org) + github pages でリニューアルしてみました!!
 
-[旧サイト(blogspot)](https://iwatakenichi.blogspot.com) / 
-[旧サイト2(gcp)](https://iwatakenichi.com)
+[旧サイト (blogspot)](https://iwatakenichi.blogspot.com) / 
+[旧サイト2 (gcp)](https://iwatakenichi.com)
 
 気が向いたら旧サイトからコンテンツを移すかも (移さないかも)<br />
 日付は記事の先頭に手動で入れるようにしています。たまに間違えているかもしれません。
@@ -22,16 +22,3 @@
 [2023年の記事](https://kenic.github.io/2023/0202nenpi5/) /
 [2022年の記事](https://kenic.github.io/2022/0309start/) 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs gh-pages` - Build the documentation site and push to github.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
