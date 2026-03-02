@@ -1,6 +1,6 @@
 # arXiv Declined
 
-arXivに初めて論文を投げたんですが([arXiv](https://kenic.github.io/2026/0224arxiv/))。
+arXivに初めて論文を投げたんですが(このブログの記事:[arXiv](https://kenic.github.io/2026/0224arxiv/))。
 
 > In this case, our moderators have determined that your submission would benefit from additional review and revision that is outside of the services we provide. 
 
