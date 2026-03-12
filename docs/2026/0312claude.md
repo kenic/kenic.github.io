@@ -1,6 +1,6 @@
 # claude
 
-Claude Codeが使いたくて、Claudeを買ってみました。年間300ドル。5万円ぐらい?
+Claude Codeが使いたくて、Claudeを買ってみました。年間200ドル。4万円ぐらい?
 
 ![claude receipt](claude-receipt.png)
 
