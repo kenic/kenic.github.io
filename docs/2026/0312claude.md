@@ -2,7 +2,7 @@
 
 Claude Codeが使いたくて、Claudeを買ってみました。年間300ドル。5万円ぐらい?
 
-![claude receipt](claude-receipt.jpeg)
+![claude receipt](claude-receipt.png)
 
 Geminiは大学のWorkSpace for Educationで使っていて、ChatGPTは月3000円のPlusプラン、
 Copilotはあんまり使ってないです。軍事協力の件もあってChatGPTはやめようかとも
