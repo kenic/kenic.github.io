@@ -9,6 +9,7 @@ plugins:
         - ja
   - macros
   - awesome-pages
+  - git-authors
   - git-revision-date-localized:
       enable_creation_date: true
       type: datetime
@@ -19,3 +20,5 @@ theme:
     logo: kenic.png
     features:
       - content.action.edit
+      - navigation.footer
+
