@@ -1,5 +1,5 @@
 site_name: kenicのブログ
-site_url: https://kenic.github.io
+site_url: https://kenic.github.io/
 site_description: misc misc misc and misc
 plugins:
   - rss
