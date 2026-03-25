@@ -10,6 +10,7 @@ plugins:
   - macros
   - awesome-pages
   - git-authors
+      show_email_address: false
   - git-revision-date-localized:
       enable_creation_date: true
       type: datetime
