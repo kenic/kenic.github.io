@@ -15,6 +15,14 @@ plugins:
       enable_creation_date: true
       type: datetime
       timezone: Asia/Tokyo
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kenic
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/kenic
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/iwatakenichi/
 theme:
     name: material
     favicon: favicon.ico
