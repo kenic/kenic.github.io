@@ -8,4 +8,5 @@
 こんな感じだったらしい。アリサにハグされてる手前のお兄さんはVincent Zhouっていうスケート選手で、演者側じゃなくて最前列の客席にいたらしい。
 
 ![vincent](vincent.jpg)
-![vincent2](vincent2.PNG)
+![vincent2](vincent2.jpg)
+![vincent3](vincent3.PNG)
