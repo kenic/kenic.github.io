@@ -23,6 +23,9 @@ extra:
       link: https://twitter.com/kenic
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/iwatakenichi/
+  analytics:
+    provider: google
+    property: G-HBV4JDC86B
 theme:
     name: material
     favicon: favicon.ico
