@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Finder
+Icon?
+._*
+
+# Spotlight
+.Spotlight-V100
+.Trashes
+
+# macOS filesystem
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Network folders
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
